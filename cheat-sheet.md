@@ -1,5 +1,5 @@
 
-#JavaScript (ECMAScript)
+# JavaScript (ECMAScript)
   * [const](https://caniuse.com/const) and [let](https://caniuse.com/let) (var alternatives)
   * Array [includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes), [some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some) and [every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
   * String [includes](https://caniuse.com/es6-string-includes), [padStart/padEnd](https://caniuse.com/pad-start-end)
@@ -49,7 +49,7 @@
   * Script [defer](https://caniuse.com/script-defer), [async](https://caniuse.com/script-async) if not [module](https://caniuse.com/es6-module)
   * [Custom](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) Elements / [Extended](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is) Elements ([safari polyfill](https://github.com/ungap/custom-elements#readme))
 
-#CSS
+# CSS
   * [Import](https://caniuse.com/mdn-css_at-rules_import)
   * [Grid](https://caniuse.com/css-grid) & [Flexbox](https://caniuse.com/flexbox)
   * [Animation](https://caniuse.com/css-animation) & [transition](https://caniuse.com/mdn-css_properties_transition)
@@ -71,21 +71,9 @@
   * [CSS Snap Points](https://caniuse.com/css-snappoints) ([tutorial](https://css-tricks.com/practical-css-scroll-snapping/))
   * [Resizable](https://caniuse.com/css-resize)
 
-#Other
+# Other
   * [Web App Manifest](https://web.dev/add-manifest/) (PWA)
   * [Add to Homescreen Prompt](https://web.dev/customize-install/)
   * [Service Worker](https://developer.chrome.com/docs/workbox/service-worker-overview/) (caching and more)
   * [WebAssembly](https://caniuse.com/wasm) (higher-performance, compiled code)
 
-
-This is a list of features to remember to
-build with when creating new, web
-projects in 2022.
-
-This helps avoid older frameworks (bootstrap, jQuery) to write
-smaller, easier-to-read, fully-featured
-frontend code.
-
-
-#Source
-[Original Google Doc](https://docs.google.com/document/d/14UXVubbQEP-4PO832kH4HpRE9S3NaVBGhfuQDwh2_Y8/edit?usp=sharing)
