@@ -16,6 +16,7 @@
   * Script [module](https://caniuse.com/es6-module)
 
 # CSS
+  * [Feature Support](https://caniuse.com/css-supports-api) Queries
   * [Media Queries](https://caniuse.com/css-mediaqueries)
     * Size Breakpoints (no vars)
     * Print
@@ -23,7 +24,6 @@
   * [Import](https://caniuse.com/mdn-css_at-rules_import) (great combined with queries)
   * [Grid](https://caniuse.com/css-grid), [Flexbox](https://caniuse.com/flexbox), [Columns](https://caniuse.com/mdn-css_properties_columns)
   * [Animation](https://caniuse.com/css-animation) & [transition](https://caniuse.com/mdn-css_properties_transition)
-  * [Feature Support](https://caniuse.com/css-supports-api) Queries
   * [Transform](https://caniuse.com/transforms2d)
   * [Viewport Units](https://caniuse.com/viewport-units): vh, vw
   * [hsla](https://caniuse.com/css3-colors) color values
