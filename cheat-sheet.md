@@ -1,37 +1,4 @@
 
-# JavaScript (ECMAScript)
-  * [const](https://caniuse.com/const) and [let](https://caniuse.com/let) (var alternatives)
-  * Array [includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes), [some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some) and [every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
-  * String [includes](https://caniuse.com/es6-string-includes), [padStart/padEnd](https://caniuse.com/pad-start-end)
-  * [Nullish Coalescence](https://caniuse.com/mdn-javascript_operators_nullish_coalescing) (“??”)
-  * [Optional Chaining](https://caniuse.com/mdn-javascript_operators_optional_chaining) (“?.”)
-  * Event Listener [once](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#once) option
-  * [Modules](https://caniuse.com/#feat=es6-module) (include) & [Classes](https://caniuse.com/#feat=es6-class)
-  * [Exponentiation operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation)
-  * [Object literal property shorthand](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
-  * [Arrow Functions](https://caniuse.com/arrow-functions) (lambda equivalent)
-  * [Template literals](https://caniuse.com/template-literals) (better string building)
-  * Args: [Default](https://caniuse.com/mdn-javascript_functions_default_parameters), [Rest](https://caniuse.com/rest-parameters) & [Spread](https://caniuse.com/mdn-javascript_operators_spread_spread_in_function_calls)
-  * [Intl.ListFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/ListFormat) ([polyfill](https://github.com/wessberg/intl-list-format) required)
-  * [Web Animations API](https://caniuse.com/web-animation) (partial)
-  * [Drag and Drop](https://caniuse.com/dragndrop)
-  * [Promises](https://caniuse.com/promises) async, await, for… on
-  * [Generators](https://caniuse.com/es6-generators) yield, for…of
-  * [Map, Set, WeakMap, WeakSet](https://medium.com/ecmascript-2015/es6-set-map-weak-a2aeb7e2d384)
-  * [Fetch](https://caniuse.com/fetch) & [URLSearchParams](https://caniuse.com/urlsearchparams)
-  * [Websockets](https://caniuse.com/websockets)
-  * [Web Workers](https://caniuse.com/webworkers)
-  * [Service Worker](https://caniuse.com/serviceworkers) (push & cache)
-  * [Web Storage](https://caniuse.com/namevalue-storage) ([session|local]Storage)
-  * [IndexedDB (2.0)](https://caniuse.com/indexeddb2) (bigger storage)
-  * [WebRTC](https://caniuse.com/rtcpeerconnection)
-  * Speech [Synthesis](https://caniuse.com/speech-synthesis) & [Recognition](https://caniuse.com/speech-recognition)
-  * [Canvas](https://caniuse.com/canvas) [2d, [webGL](https://caniuse.com/webgl)]
-  * [Web Cryptography](https://caniuse.com/cryptography)
-  * [Web Payments](https://web.dev/payments/)
-  * [ESLint](https://eslint.org/) (even for purely client-side)
-  * [JSDoc](https://jsdoc.app/)
-
 # HTML
   * [Semantic elements](https://caniuse.com/html5semantic) (not everything is div)
   * [Email & URL](https://caniuse.com/input-email-tel-url) input types
@@ -69,6 +36,39 @@
   * [system-ui](https://caniuse.com/font-family-system-ui) font family (with [fallbacks](https://furbo.org/2018/03/28/system-fonts-in-css/))
   * [CSS Snap Points](https://caniuse.com/css-snappoints) ([tutorial](https://css-tricks.com/practical-css-scroll-snapping/))
   * [Resizable](https://caniuse.com/css-resize)
+
+# JavaScript (ECMAScript)
+  * [const](https://caniuse.com/const) and [let](https://caniuse.com/let) (var alternatives)
+  * Array [includes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes), [some](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/some) and [every](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
+  * String [includes](https://caniuse.com/es6-string-includes), [padStart/padEnd](https://caniuse.com/pad-start-end)
+  * [Nullish Coalescence](https://caniuse.com/mdn-javascript_operators_nullish_coalescing) (“??”)
+  * [Optional Chaining](https://caniuse.com/mdn-javascript_operators_optional_chaining) (“?.”)
+  * Event Listener [once](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener#once) option
+  * [Modules](https://caniuse.com/#feat=es6-module) (include) & [Classes](https://caniuse.com/#feat=es6-class)
+  * [Exponentiation operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation)
+  * [Object literal property shorthand](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
+  * [Arrow Functions](https://caniuse.com/arrow-functions) (lambda equivalent)
+  * [Template literals](https://caniuse.com/template-literals) (better string building)
+  * Args: [Default](https://caniuse.com/mdn-javascript_functions_default_parameters), [Rest](https://caniuse.com/rest-parameters) & [Spread](https://caniuse.com/mdn-javascript_operators_spread_spread_in_function_calls)
+  * [Intl.ListFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/ListFormat) ([polyfill](https://github.com/wessberg/intl-list-format) required)
+  * [Web Animations API](https://caniuse.com/web-animation) (partial)
+  * [Drag and Drop](https://caniuse.com/dragndrop)
+  * [Promises](https://caniuse.com/promises) async, await, for… on
+  * [Generators](https://caniuse.com/es6-generators) yield, for…of
+  * [Map, Set, WeakMap, WeakSet](https://medium.com/ecmascript-2015/es6-set-map-weak-a2aeb7e2d384)
+  * [Fetch](https://caniuse.com/fetch) & [URLSearchParams](https://caniuse.com/urlsearchparams)
+  * [Websockets](https://caniuse.com/websockets)
+  * [Web Workers](https://caniuse.com/webworkers)
+  * [Service Worker](https://caniuse.com/serviceworkers) (push & cache)
+  * [Web Storage](https://caniuse.com/namevalue-storage) ([session|local]Storage)
+  * [IndexedDB (2.0)](https://caniuse.com/indexeddb2) (bigger storage)
+  * [WebRTC](https://caniuse.com/rtcpeerconnection)
+  * Speech [Synthesis](https://caniuse.com/speech-synthesis) & [Recognition](https://caniuse.com/speech-recognition)
+  * [Canvas](https://caniuse.com/canvas) [2d, [webGL](https://caniuse.com/webgl)]
+  * [Web Cryptography](https://caniuse.com/cryptography)
+  * [Web Payments](https://web.dev/payments/)
+  * [ESLint](https://eslint.org/) (even for purely client-side)
+  * [JSDoc](https://jsdoc.app/)
 
 # Other
   * [Web App Manifest](https://web.dev/add-manifest/) (PWA)
