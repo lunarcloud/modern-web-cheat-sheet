@@ -1,7 +1,9 @@
 
 # HTML
-  * [Semantic elements](https://caniuse.com/html5semantic) (not everything is div)
-  * [Email & URL](https://caniuse.com/input-email-tel-url) input types
+  * [Semantic Elements (main, nav, footer, etc)](https://caniuse.com/html5semantic)
+  * [Email, URL](https://caniuse.com/input-email-tel-url) input types
+  * [Custom](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) Elements / [Extended](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is) Elements ([polyfill](https://github.com/ungap/custom-elements#readme) for safari)
+  * [Email, URL](https://caniuse.com/input-email-tel-url), [Range](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range), [Date](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date), [Search](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/search) inputs
   * [Form validation](https://caniuse.com/form-validation)
   * Input [Minimum](https://caniuse.com/input-minlength) / [Pattern](https://caniuse.com/input-pattern) / [Suggestions ](https://caniuse.com/datalist)
   * [Button type](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button#attr-type) (not all form buttons submit)
@@ -14,7 +16,6 @@
   * [Summary & Details](https://caniuse.com/details) Elements
   * [Time](https://caniuse.com/mdn-html_elements_time) Element
   * Script [defer](https://caniuse.com/script-defer), [async](https://caniuse.com/script-async) if not [module](https://caniuse.com/es6-module)
-  * [Custom](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) Elements / [Extended](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is) Elements ([safari polyfill](https://github.com/ungap/custom-elements#readme))
 
 # CSS
   * [Import](https://caniuse.com/mdn-css_at-rules_import)
