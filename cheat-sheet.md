@@ -1,7 +1,6 @@
 
 # HTML
   * [Semantic Elements (main, nav, footer, etc)](https://caniuse.com/html5semantic)
-  * [Email, URL](https://caniuse.com/input-email-tel-url) input types
   * [Custom](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) Elements / [Extended](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is) Elements ([polyfill](https://github.com/ungap/custom-elements#readme) for safari)
   * [Email, URL](https://caniuse.com/input-email-tel-url), [Range](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range), [Date](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date), [Search](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/search) inputs
   * [Form validation](https://caniuse.com/form-validation)
