@@ -16,19 +16,18 @@
   * Script [module](https://caniuse.com/es6-module)
 
 # CSS
-  * [Import](https://caniuse.com/mdn-css_at-rules_import)
-  * [Grid](https://caniuse.com/css-grid), [Flexbox](https://caniuse.com/flexbox), [Columns](https://caniuse.com/mdn-css_properties_columns)
-  * [Animation](https://caniuse.com/css-animation) & [transition](https://caniuse.com/mdn-css_properties_transition)
-  * [Feature Support](https://caniuse.com/css-supports-api) Queries
   * [Media Queries](https://caniuse.com/css-mediaqueries)
     * Size Breakpoints (no vars)
     * Print
     * Prefers… [dark mode](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme), [reduced motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion), [contrast](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-contrast)
+  * [Import](https://caniuse.com/mdn-css_at-rules_import) (great combined with queries)
+  * [Grid](https://caniuse.com/css-grid), [Flexbox](https://caniuse.com/flexbox), [Columns](https://caniuse.com/mdn-css_properties_columns)
+  * [Animation](https://caniuse.com/css-animation) & [transition](https://caniuse.com/mdn-css_properties_transition)
+  * [Feature Support](https://caniuse.com/css-supports-api) Queries
   * [Transform](https://caniuse.com/transforms2d)
   * [Viewport Units](https://caniuse.com/viewport-units): vh, vw
   * [hsla](https://caniuse.com/css3-colors) color values
-  * [Variables](https://caniuse.com/css-variables) (great for colors, font sizes)
-  * [calc()](https://caniuse.com/calc)
+  * [Calc](https://caniuse.com/calc) & [Var](https://caniuse.com/css-variables) (great for colors, font sizes)
   * [border](https://caniuse.com/border-image) [images](https://css-tricks.com/almanac/properties/b/border-image/) (9-slice borders)
   * [object- fit/position](https://caniuse.com/object-fit)
   * [WOFF](https://caniuse.com/woff) & [WOFF2](https://caniuse.com/woff2) web font format
