@@ -8,13 +8,12 @@
   * [Button type](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button#attr-type) (not all form buttons submit)
   * [Dialog](https://caniuse.com/dialog)
   * [Picture](https://caniuse.com/picture) Element
-  * [APNG](https://caniuse.com/apng) & [WebP](https://caniuse.com/webp) (supports anim and alpha)
-  * [SVG](https://caniuse.com/svg) for scalable iconography
+  * [SVG](https://caniuse.com/svg) & [WebP](https://caniuse.com/webp) (supports anim and alpha)
   * [MP3](https://caniuse.com/mp3) or [Opus](https://caniuse.com/?search=opus) audio codecs
   * [Template](https://caniuse.com/template) Element
   * [Summary & Details](https://caniuse.com/details) Elements
-  * [Time](https://caniuse.com/mdn-html_elements_time) Element
-  * Script [defer](https://caniuse.com/script-defer), [async](https://caniuse.com/script-async) if not [module](https://caniuse.com/es6-module)
+  * [(Date) Time](https://caniuse.com/mdn-html_elements_time) Element
+  * Script [module](https://caniuse.com/es6-module)
 
 # CSS
   * [Import](https://caniuse.com/mdn-css_at-rules_import)
