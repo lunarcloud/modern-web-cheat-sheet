@@ -57,8 +57,7 @@
   * [Media Queries](https://caniuse.com/css-mediaqueries)
     * Size Breakpoints (no vars)
     * Print
-    * [Support OS Dark Mode](https://caniuse.com/?search=prefers-color-scheme)
-    * [Reduced Motion Pref](https://caniuse.com/prefers-reduced-motion)
+    * Prefers… [dark mode](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme), [reduced motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion), [contrast](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-contrast)
   * [Transform](https://caniuse.com/transforms2d)
   * [Viewport Units](https://caniuse.com/viewport-units): vh, vw
   * [hsla](https://caniuse.com/css3-colors) color values
