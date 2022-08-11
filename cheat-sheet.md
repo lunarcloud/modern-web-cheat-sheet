@@ -51,7 +51,7 @@
 
 # CSS
   * [Import](https://caniuse.com/mdn-css_at-rules_import)
-  * [Grid](https://caniuse.com/css-grid) & [Flexbox](https://caniuse.com/flexbox)
+  * [Grid](https://caniuse.com/css-grid), [Flexbox](https://caniuse.com/flexbox), [Columns](https://caniuse.com/mdn-css_properties_columns)
   * [Animation](https://caniuse.com/css-animation) & [transition](https://caniuse.com/mdn-css_properties_transition)
   * [Feature Support](https://caniuse.com/css-supports-api) Queries
   * [Media Queries](https://caniuse.com/css-mediaqueries)
