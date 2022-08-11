@@ -32,7 +32,7 @@
   * [ESLint](https://eslint.org/) (even for purely client-side)
   * [JSDoc](https://jsdoc.app/)
 
-#HTML
+# HTML
   * [Semantic elements](https://caniuse.com/html5semantic) (not everything is div)
   * [Email & URL](https://caniuse.com/input-email-tel-url) input types
   * [Form validation](https://caniuse.com/form-validation)
