@@ -10,10 +10,10 @@
   * [Picture](https://caniuse.com/picture) Element
   * [SVG](https://caniuse.com/svg) & [WebP](https://caniuse.com/webp) (supports anim and alpha)
   * [MP3](https://caniuse.com/mp3) or [Opus](https://caniuse.com/?search=opus) audio codecs
-  * [Template](https://caniuse.com/template) Element
+  * [Template](https://caniuse.com/template) & [Slot](https://caniuse.com/mdn-html_elements_slot) Element
   * [Summary & Details](https://caniuse.com/details) Elements
   * [(Date) Time](https://caniuse.com/mdn-html_elements_time) Element
-  * Script [module](https://caniuse.com/es6-module)
+  * Script [module](https://caniuse.com/es6-module) type
 
 # CSS
   * [Feature Support](https://caniuse.com/css-supports-api) Queries
@@ -22,7 +22,9 @@
     * Print
     * Prefers… [dark mode](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme), [reduced motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion), [contrast](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-contrast)
   * [Import](https://caniuse.com/mdn-css_at-rules_import) (great combined with queries)
+  * [Nesting](https://caniuse.com/css-nesting) (newest browsers)
   * [Grid](https://caniuse.com/css-grid), [Flexbox](https://caniuse.com/flexbox), [Columns](https://caniuse.com/mdn-css_properties_columns)
+  * [:is() & :where() selectors ](https://developer.mozilla.org/en-US/docs/Web/CSS/:where)
   * [Animation](https://caniuse.com/css-animation) & [transition](https://caniuse.com/mdn-css_properties_transition)
   * [Transform](https://caniuse.com/transforms2d)
   * [Viewport Units](https://caniuse.com/viewport-units): vh, vw
@@ -34,6 +36,8 @@
   * [system-ui](https://caniuse.com/font-family-system-ui) font family (with [fallbacks](https://furbo.org/2018/03/28/system-fonts-in-css/))
   * [CSS Snap Points](https://caniuse.com/css-snappoints) ([tutorial](https://css-tricks.com/practical-css-scroll-snapping/))
   * [Resizable](https://caniuse.com/css-resize)
+  * [aspect-ratio](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio)
+  * Input [in-/out-of-range](https://caniuse.com/css-in-out-of-range)
 
 # JavaScript (ECMAScript)
   * [const](https://caniuse.com/const) and [let](https://caniuse.com/let) (var alternatives)
@@ -65,7 +69,7 @@
   * [Canvas](https://caniuse.com/canvas) [2d, [webGL](https://caniuse.com/webgl)]
   * [Web Cryptography](https://caniuse.com/cryptography)
   * [Web Payments](https://web.dev/payments/)
-  * [ESLint](https://eslint.org/) (even for purely client-side)
+  * [ESLint](https://eslint.org/)
   * [JSDoc](https://jsdoc.app/)
 
 # Other
