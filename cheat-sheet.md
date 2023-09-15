@@ -7,6 +7,7 @@
   * Input [Minimum](https://caniuse.com/input-minlength) / [Pattern](https://caniuse.com/input-pattern) / [Suggestions ](https://caniuse.com/datalist)
   * [Button type](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button#attr-type) (not all form buttons submit)
   * [Dialog](https://caniuse.com/dialog)
+  * [&amp;shy;](https://caniuse.com/css-hyphens) page-break hyphen hint
   * [Picture](https://caniuse.com/picture) Element
   * [SVG](https://caniuse.com/svg) & [WebP](https://caniuse.com/webp) (supports anim and alpha)
   * [MP3](https://caniuse.com/mp3) or [Opus](https://caniuse.com/?search=opus) audio codecs
