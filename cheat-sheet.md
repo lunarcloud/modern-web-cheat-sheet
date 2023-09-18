@@ -30,7 +30,8 @@
   * [Transform](https://caniuse.com/transforms2d)
   * [Viewport Units](https://caniuse.com/viewport-units): vh, vw
   * [hsla](https://caniuse.com/css3-colors) color values
-  * [Calc](https://caniuse.com/calc) & [Var](https://caniuse.com/css-variables) (great for colors, font sizes)
+  * [calc](https://caniuse.com/calc) & [var](https://caniuse.com/css-variables) (great for colors, font sizes)
+  * [math min(), max() and clamp()](https://caniuse.com/css-math-functions)
   * [border](https://caniuse.com/border-image) [images](https://css-tricks.com/almanac/properties/b/border-image/) (9-slice borders)
   * [object- fit/position](https://caniuse.com/object-fit)
   * [WOFF](https://caniuse.com/woff) & [WOFF2](https://caniuse.com/woff2) web font format
