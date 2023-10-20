@@ -79,7 +79,7 @@
   * [Add to Homescreen Prompt](https://web.dev/customize-install/)
   * [Service Worker](https://developer.chrome.com/docs/workbox/service-worker-overview/) (caching and more)
   * [WebAssembly](https://caniuse.com/wasm) (higher-performance, compiled code)
-  * [All iPad Browsers are Safari](https://developer.apple.com/app-store/review/guidelines/#2.5.6) - as of 2023…
+  * [All iPad Browsers _are_ Safari](https://developer.apple.com/app-store/review/guidelines/#2.5.6) - as of 2023…
 
 # Linters
   * HTML: [LintHTML](https://linthtml.vercel.app/)
