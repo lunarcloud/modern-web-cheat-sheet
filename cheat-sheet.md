@@ -80,3 +80,7 @@
   * [Service Worker](https://developer.chrome.com/docs/workbox/service-worker-overview/) (caching and more)
   * [WebAssembly](https://caniuse.com/wasm) (higher-performance, compiled code)
 
+# NPM-Installable Linters
+  * HTML: [LintHTML](https://linthtml.vercel.app/)
+  * CSS: [StyleLint](https://stylelint.io/)
+  * Javascript: [ESLint](https://eslint.org/)
