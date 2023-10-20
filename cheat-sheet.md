@@ -71,8 +71,8 @@
   * [Canvas](https://caniuse.com/canvas) [2d, [webGL](https://caniuse.com/webgl)]
   * [Web Cryptography](https://caniuse.com/cryptography)
   * [Web Payments](https://web.dev/payments/)
-  * [ESLint](https://eslint.org/)
-  * [JSDoc](https://jsdoc.app/)
+  * [JSDoc](https://jsdoc.app/) - Documentation and Typing
+  * [Standard Style](https://standardjs.com/) - the new style rules
 
 # Other
   * [Web App Manifest](https://web.dev/add-manifest/) (PWA)
