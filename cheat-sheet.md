@@ -72,7 +72,7 @@
   * [Web Cryptography](https://caniuse.com/cryptography)
   * [Web Payments](https://web.dev/payments/)
   * [JSDoc](https://jsdoc.app/) - Documentation and Typing
-  * [Standard Style](https://standardjs.com/) - the new style rules
+  * [Standard Style](https://standardjs.com/rules) - the new style rules
 
 # Other
   * [Web App Manifest](https://web.dev/add-manifest/) (PWA)
