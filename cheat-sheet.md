@@ -4,6 +4,7 @@
   * [Custom](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) Elements / [Extended](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/is) Elements ([polyfill](https://github.com/ungap/custom-elements#readme) for safari)
   * [Email, URL](https://caniuse.com/input-email-tel-url), [Range](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range), [Date](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date), [Search](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/search) inputs
   * [Form validation](https://caniuse.com/form-validation)
+  * [Datalist](https://caniuse.com/datalist) - built-in autocomplete
   * Input [Minimum](https://caniuse.com/input-minlength) / [Pattern](https://caniuse.com/input-pattern) / [Suggestions ](https://caniuse.com/datalist)
   * [Button type](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button#attr-type) (not all form buttons submit)
   * [Dialog](https://caniuse.com/dialog)
@@ -18,10 +19,7 @@
 
 # CSS
   * [Feature Support](https://caniuse.com/css-supports-api) Queries
-  * [Media Queries](https://caniuse.com/css-mediaqueries)
-    * Size Breakpoints (no vars)
-    * Print
-    * Prefers… [dark mode](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme), [reduced motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion), [contrast](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-contrast)
+  * [Media Queries](https://caniuse.com/css-mediaqueries) - Size Breakpoints (no vars), Print ([pages](https://caniuse.com/css-paged-media)), [DPI](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/resolution), [dark mode](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme), [reduced motion](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion), [contrast](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-contrast)
   * [Import](https://caniuse.com/mdn-css_at-rules_import) (great combined with queries)
   * [Nesting](https://caniuse.com/css-nesting) (newest browsers)
   * [Grid](https://caniuse.com/css-grid), [Flexbox](https://caniuse.com/flexbox), [Columns](https://caniuse.com/mdn-css_properties_columns)
@@ -34,6 +32,7 @@
   * [math min(), max() and clamp()](https://caniuse.com/css-math-functions)
   * [border](https://caniuse.com/border-image) [images](https://css-tricks.com/almanac/properties/b/border-image/) (9-slice borders)
   * [object- fit/position](https://caniuse.com/object-fit)
+  * [hanging-punctuation](https://chriscoyier.net/2023/11/27/the-hanging-punctuation-property-in-css/) (safari or fallback)
   * [WOFF](https://caniuse.com/woff) & [WOFF2](https://caniuse.com/woff2) web font format
   * [system-ui](https://caniuse.com/font-family-system-ui) font family (with [fallbacks](https://furbo.org/2018/03/28/system-fonts-in-css/))
   * [CSS Snap Points](https://caniuse.com/css-snappoints) ([tutorial](https://css-tricks.com/practical-css-scroll-snapping/))
