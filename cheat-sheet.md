@@ -27,7 +27,7 @@
   * [Animation](https://caniuse.com/css-animation) & [transition](https://caniuse.com/mdn-css_properties_transition)
   * [Transform](https://caniuse.com/transforms2d)
   * [Viewport Units](https://caniuse.com/viewport-units): vh, vw
-  * [hsla](https://caniuse.com/css3-colors) color values
+  * [oklab and lklch]([https://caniuse.com/css3-colors](https://caniuse.com/wf-oklab)) color values instead of hex, RGB, HSL values
   * [calc](https://caniuse.com/calc) & [var](https://caniuse.com/css-variables) (great for colors, font sizes)
   * [math min(), max() and clamp()](https://caniuse.com/css-math-functions)
   * [border](https://caniuse.com/border-image) [images](https://css-tricks.com/almanac/properties/b/border-image/) (9-slice borders)
